@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kim.feuerbacher@gmail.com
+	name = Kim Feuerbacher
